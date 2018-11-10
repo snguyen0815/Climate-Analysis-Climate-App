@@ -1,3 +1,10 @@
+############################
+
+User: Stanley Nguyen
+
+############################
+
+
 import numpy as np
 
 import sqlalchemy
